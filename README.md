@@ -11,7 +11,7 @@
   
 - 개발 인원 : 프론트엔드 2명 , 백엔드 4명
   - Product Manager: 김수정(F)<a href="https://github.com/Kimsu10"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Kimsu10"/></a>
-  - Project Manager: 서동희(B)<a href="https://github.com/donghee9><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Teachsue"/></a>
+  - Project Manager: 서동희(B)<a href="https://github.com/donghee9"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Teachsue"/></a>
   - Teammates: </br>
 김상원(B)<a href="https://github.com/Teachsue"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/donghee9"/></a></br>
 이주현(B)<a href="https://github.com/sioscorial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sioscorial"/></a></br>
